@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/dasnear/StudioProjects/RuangRehat/build/path_provider_android/intermediates/merged_res/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/dasnear/.gradle/caches/transforms-3/bf4e58555fa2c1c5f38a2702c2030a5e/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/dasnear/StudioProjects/RuangRehat/build/path_provider_android/intermediates/merged_res/debug/drawable/notification_icon_background.xml",
+        "source": "/home/dasnear/.gradle/caches/transforms-3/bf4e58555fa2c1c5f38a2702c2030a5e/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/dasnear/StudioProjects/RuangRehat/build/path_provider_android/intermediates/merged_res/debug/drawable/notification_bg.xml",
+        "source": "/home/dasnear/.gradle/caches/transforms-3/bf4e58555fa2c1c5f38a2702c2030a5e/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/dasnear/StudioProjects/RuangRehat/build/path_provider_android/intermediates/merged_res/debug/drawable/notification_bg_low.xml",
+        "source": "/home/dasnear/.gradle/caches/transforms-3/bf4e58555fa2c1c5f38a2702c2030a5e/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Mon Jul 11 02:45:34 WIB 2022
+base.0=/home/dasnear/StudioProjects/RuangRehat/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

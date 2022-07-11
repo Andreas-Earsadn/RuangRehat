@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/dasnear/StudioProjects/RuangRehat/build/path_provider_android/intermediates/merged_res/release/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/dasnear/.gradle/caches/transforms-3/bf4e58555fa2c1c5f38a2702c2030a5e/transformed/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/dasnear/StudioProjects/RuangRehat/build/path_provider_android/intermediates/merged_res/release/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/dasnear/.gradle/caches/transforms-3/bf4e58555fa2c1c5f38a2702c2030a5e/transformed/core-1.6.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/dasnear/StudioProjects/RuangRehat/build/path_provider_android/intermediates/merged_res/release/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/dasnear/.gradle/caches/transforms-3/bf4e58555fa2c1c5f38a2702c2030a5e/transformed/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/dasnear/StudioProjects/RuangRehat/build/path_provider_android/intermediates/merged_res/release/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/dasnear/.gradle/caches/transforms-3/bf4e58555fa2c1c5f38a2702c2030a5e/transformed/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/dasnear/StudioProjects/RuangRehat/build/path_provider_android/intermediates/merged_res/release/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/dasnear/.gradle/caches/transforms-3/bf4e58555fa2c1c5f38a2702c2030a5e/transformed/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    }
+]

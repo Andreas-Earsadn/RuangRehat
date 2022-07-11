@@ -1,0 +1,85 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.example"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="31" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/debug/AndroidManifest.xml:10:5-66
+11-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/debug/AndroidManifest.xml:10:22-64
+12    <!--
+13     Flutter needs it to communicate with the running application
+14         to allow setting breakpoints, to provide hot reload, etc.
+15    -->
+16    <application
+16-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:8:5-32:19
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.6.0] /home/dasnear/.gradle/caches/transforms-3/bf4e58555fa2c1c5f38a2702c2030a5e/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:10:9-43
+20        android:label="flutter_login [D]" >
+20-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:9:9-36
+21        <activity
+21-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:11:9-28:20
+22            android:name="io.flutter.embedding.android.FlutterActivity"
+22-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:12:13-72
+23            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+23-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:16:13-144
+24            android:exported="true"
+24-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:13:13-36
+25            android:hardwareAccelerated="true"
+25-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:17:13-47
+26            android:launchMode="singleTop"
+26-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:14:13-43
+27            android:theme="@style/LaunchTheme"
+27-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:15:13-47
+28            android:windowSoftInputMode="adjustResize" >
+28-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:18:13-55
+29
+30            <!-- Theme to apply as soon as Flutter begins rendering frames -->
+31            <meta-data
+31-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:20:13-23:19
+32                android:name="io.flutter.embedding.android.NormalTheme"
+32-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:21:17-72
+33                android:resource="@style/NormalTheme" />
+33-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:22:17-54
+34
+35            <intent-filter>
+35-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:24:13-27:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:25:17-68
+36-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:25:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:26:17-76
+38-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:26:27-74
+39            </intent-filter>
+40        </activity>
+41
+42        <meta-data
+42-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:29:9-31:33
+43            android:name="flutterEmbedding"
+43-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:30:13-44
+44            android:value="2" />
+44-->/home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:31:13-30
+45
+46        <uses-library
+46-->[androidx.window:window:1.0.0-beta04] /home/dasnear/.gradle/caches/transforms-3/53af69eb195186d0653dfc85c3b0f2db/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+47            android:name="androidx.window.extensions"
+47-->[androidx.window:window:1.0.0-beta04] /home/dasnear/.gradle/caches/transforms-3/53af69eb195186d0653dfc85c3b0f2db/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+48            android:required="false" />
+48-->[androidx.window:window:1.0.0-beta04] /home/dasnear/.gradle/caches/transforms-3/53af69eb195186d0653dfc85c3b0f2db/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+49        <uses-library
+49-->[androidx.window:window:1.0.0-beta04] /home/dasnear/.gradle/caches/transforms-3/53af69eb195186d0653dfc85c3b0f2db/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+50            android:name="androidx.window.sidecar"
+50-->[androidx.window:window:1.0.0-beta04] /home/dasnear/.gradle/caches/transforms-3/53af69eb195186d0653dfc85c3b0f2db/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+51            android:required="false" />
+51-->[androidx.window:window:1.0.0-beta04] /home/dasnear/.gradle/caches/transforms-3/53af69eb195186d0653dfc85c3b0f2db/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+52    </application>
+53
+54</manifest>

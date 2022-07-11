@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/dasnear/StudioProjects/RuangRehat/build/path_provider_android/intermediates/incremental/mergeReleaseResources/merged.dir/values-hr/values-hr.xml",
+            "map": [
+                {
+                    "source": "/home/dasnear/.gradle/caches/transforms-3/bf4e58555fa2c1c5f38a2702c2030a5e/transformed/core-1.6.0/res/values-hr/values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/dasnear/StudioProjects/RuangRehat/build/path_provider_android/intermediates/merged_res/release/values-hr/values-hr.xml",
+            "map": [
+                {
+                    "source": "/home/dasnear/.gradle/caches/transforms-3/bf4e58555fa2c1c5f38a2702c2030a5e/transformed/core-1.6.0/res/values-hr/values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

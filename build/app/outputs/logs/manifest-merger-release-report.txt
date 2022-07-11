@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:shared_preferences_android] /home/dasnear/StudioProjects/RuangRehat/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] /home/dasnear/StudioProjects/RuangRehat/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/dasnear/.gradle/caches/transforms-3/c93f970bd955b7eadc0f20524ced48a8/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /home/dasnear/.gradle/caches/transforms-3/53af69eb195186d0653dfc85c3b0f2db/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/dasnear/.gradle/caches/transforms-3/9e556dc6011598251cc9b406d5969235/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dasnear/.gradle/caches/transforms-3/06aeb0ecd7956304e750100d126f97d5/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/dasnear/.gradle/caches/transforms-3/e7f8d7203f947f0aaa22dbfd44afbd5a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/dasnear/.gradle/caches/transforms-3/67f0851f9a4db7d58b25afb318eb625d/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/dasnear/.gradle/caches/transforms-3/380158a00aef19f74ca0c59cd69c2f07/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /home/dasnear/.gradle/caches/transforms-3/bf4e58555fa2c1c5f38a2702c2030a5e/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/dasnear/.gradle/caches/transforms-3/4c8b5075872b883683bd5c1a15bfa2b6/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dasnear/.gradle/caches/transforms-3/a923f0b13977f63c70e50fb3d2af5a71/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dasnear/.gradle/caches/transforms-3/40d9f635a28837e0a35085eba1cc4e49/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dasnear/.gradle/caches/transforms-3/c4519180449c21e5c628823d79ddd67e/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/dasnear/.gradle/caches/transforms-3/97b65dbe5a317911ddc6bc092ec4d764/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dasnear/.gradle/caches/transforms-3/d5b3c67abe0a85a98a265ad2fa87fc9c/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/dasnear/.gradle/caches/transforms-3/f7f598e555db713db20959be0bd5176c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/dasnear/.gradle/caches/transforms-3/62091ea295e86badf4805277f51640b1/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/dasnear/.gradle/caches/transforms-3/3ebdf6ce776e08aa66584dda4d56b7e6/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:1:1-33:12
+	package
+		ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:2:5-34
+		INJECTED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:8:5-32:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/dasnear/.gradle/caches/transforms-3/53af69eb195186d0653dfc85c3b0f2db/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/dasnear/.gradle/caches/transforms-3/53af69eb195186d0653dfc85c3b0f2db/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] /home/dasnear/.gradle/caches/transforms-3/bf4e58555fa2c1c5f38a2702c2030a5e/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /home/dasnear/.gradle/caches/transforms-3/bf4e58555fa2c1c5f38a2702c2030a5e/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/dasnear/.gradle/caches/transforms-3/f7f598e555db713db20959be0bd5176c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/dasnear/.gradle/caches/transforms-3/f7f598e555db713db20959be0bd5176c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /home/dasnear/.gradle/caches/transforms-3/bf4e58555fa2c1c5f38a2702c2030a5e/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:9:9-36
+	android:icon
+		ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:10:9-43
+activity#io.flutter.embedding.android.FlutterActivity
+ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:11:9-28:20
+	android:launchMode
+		ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:14:13-43
+	android:hardwareAccelerated
+		ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:17:13-47
+	android:windowSoftInputMode
+		ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:18:13-55
+	android:exported
+		ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:13:13-36
+	android:configChanges
+		ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:16:13-144
+	android:theme
+		ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:15:13-47
+	android:name
+		ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:12:13-72
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:20:13-23:19
+	android:resource
+		ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:22:17-54
+	android:name
+		ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:21:17-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:26:27-74
+meta-data#flutterEmbedding
+ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:29:9-31:33
+	android:value
+		ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:31:13-30
+	android:name
+		ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml:30:13-44
+uses-sdk
+INJECTED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml
+MERGED from [:shared_preferences_android] /home/dasnear/StudioProjects/RuangRehat/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /home/dasnear/StudioProjects/RuangRehat/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /home/dasnear/StudioProjects/RuangRehat/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /home/dasnear/StudioProjects/RuangRehat/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/dasnear/.gradle/caches/transforms-3/c93f970bd955b7eadc0f20524ced48a8/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/dasnear/.gradle/caches/transforms-3/c93f970bd955b7eadc0f20524ced48a8/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/dasnear/.gradle/caches/transforms-3/53af69eb195186d0653dfc85c3b0f2db/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/dasnear/.gradle/caches/transforms-3/53af69eb195186d0653dfc85c3b0f2db/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/dasnear/.gradle/caches/transforms-3/9e556dc6011598251cc9b406d5969235/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/dasnear/.gradle/caches/transforms-3/9e556dc6011598251cc9b406d5969235/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dasnear/.gradle/caches/transforms-3/06aeb0ecd7956304e750100d126f97d5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dasnear/.gradle/caches/transforms-3/06aeb0ecd7956304e750100d126f97d5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dasnear/.gradle/caches/transforms-3/e7f8d7203f947f0aaa22dbfd44afbd5a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dasnear/.gradle/caches/transforms-3/e7f8d7203f947f0aaa22dbfd44afbd5a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/dasnear/.gradle/caches/transforms-3/67f0851f9a4db7d58b25afb318eb625d/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/dasnear/.gradle/caches/transforms-3/67f0851f9a4db7d58b25afb318eb625d/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/dasnear/.gradle/caches/transforms-3/380158a00aef19f74ca0c59cd69c2f07/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/dasnear/.gradle/caches/transforms-3/380158a00aef19f74ca0c59cd69c2f07/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /home/dasnear/.gradle/caches/transforms-3/bf4e58555fa2c1c5f38a2702c2030a5e/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /home/dasnear/.gradle/caches/transforms-3/bf4e58555fa2c1c5f38a2702c2030a5e/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/dasnear/.gradle/caches/transforms-3/4c8b5075872b883683bd5c1a15bfa2b6/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/dasnear/.gradle/caches/transforms-3/4c8b5075872b883683bd5c1a15bfa2b6/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dasnear/.gradle/caches/transforms-3/a923f0b13977f63c70e50fb3d2af5a71/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dasnear/.gradle/caches/transforms-3/a923f0b13977f63c70e50fb3d2af5a71/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dasnear/.gradle/caches/transforms-3/40d9f635a28837e0a35085eba1cc4e49/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dasnear/.gradle/caches/transforms-3/40d9f635a28837e0a35085eba1cc4e49/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dasnear/.gradle/caches/transforms-3/c4519180449c21e5c628823d79ddd67e/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dasnear/.gradle/caches/transforms-3/c4519180449c21e5c628823d79ddd67e/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /home/dasnear/.gradle/caches/transforms-3/97b65dbe5a317911ddc6bc092ec4d764/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/dasnear/.gradle/caches/transforms-3/97b65dbe5a317911ddc6bc092ec4d764/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dasnear/.gradle/caches/transforms-3/d5b3c67abe0a85a98a265ad2fa87fc9c/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dasnear/.gradle/caches/transforms-3/d5b3c67abe0a85a98a265ad2fa87fc9c/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/dasnear/.gradle/caches/transforms-3/f7f598e555db713db20959be0bd5176c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/dasnear/.gradle/caches/transforms-3/f7f598e555db713db20959be0bd5176c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/dasnear/.gradle/caches/transforms-3/62091ea295e86badf4805277f51640b1/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/dasnear/.gradle/caches/transforms-3/62091ea295e86badf4805277f51640b1/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/dasnear/.gradle/caches/transforms-3/3ebdf6ce776e08aa66584dda4d56b7e6/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/dasnear/.gradle/caches/transforms-3/3ebdf6ce776e08aa66584dda4d56b7e6/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dasnear/StudioProjects/RuangRehat/android/app/src/main/AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /home/dasnear/.gradle/caches/transforms-3/53af69eb195186d0653dfc85c3b0f2db/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/dasnear/.gradle/caches/transforms-3/53af69eb195186d0653dfc85c3b0f2db/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/dasnear/.gradle/caches/transforms-3/53af69eb195186d0653dfc85c3b0f2db/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /home/dasnear/.gradle/caches/transforms-3/53af69eb195186d0653dfc85c3b0f2db/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/dasnear/.gradle/caches/transforms-3/53af69eb195186d0653dfc85c3b0f2db/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/dasnear/.gradle/caches/transforms-3/53af69eb195186d0653dfc85c3b0f2db/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
